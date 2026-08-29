@@ -6,7 +6,7 @@ An interactive **Swiggy Sales & Analytics Dashboard built entirely in Microsoft 
 
 ## 📊 Dashboard Preview
 
-![Swiggy Sales & Analytics Dashboard](screenshots/Swiggy_Dashboard.png)
+![Swiggy Sales & Analytics Dashboard](screenshots/Swiggy_Dashboard.jpeg)
 
 ---
 
